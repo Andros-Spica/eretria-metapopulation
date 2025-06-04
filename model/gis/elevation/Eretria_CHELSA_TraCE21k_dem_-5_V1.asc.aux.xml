@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>CHELSA_TraCE21k_dem_-5_V1.0</Description>
+    <ColorInterp>Gray</ColorInterp>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1690</MDI>
+      <MDI key="STATISTICS_MEAN">400.1120563928</MDI>
+      <MDI key="STATISTICS_MINIMUM">-305</MDI>
+      <MDI key="STATISTICS_STDDEV">278.63032477775</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
